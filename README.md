@@ -6,17 +6,18 @@ A web application for managing notes, allowing users to create, edit, view, and 
 
 1. Clone the repository:
 
-   https://github.com/aMachmouchi/NotesManager-MERN_stack.git
+   git clone https://github.com/aMachmouchi/NotesManager-MERN_stack.git
 
 2. Navigate to the project directory:
 
-    cd notes-management-system
+    cd NotesManager-MERN_stack
 
 3. Install dependencies:
 
     npm install
 
-4. npm start
+4. Start the project:
+   npm start
 
 Features
 Create new notes with a title, content, and optional tags.
