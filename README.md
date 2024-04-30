@@ -6,8 +6,7 @@ A web application for managing notes, allowing users to create, edit, view, and 
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your/repository.git
+   https://github.com/aMachmouchi/NotesManager-MERN_stack.git
 
 2. Navigate to the project directory:
 
